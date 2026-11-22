@@ -55,7 +55,7 @@ The patch is shipped as an XDelta patch.
 2. Unzip patch bundle
 3. Open **'DeltaPatcher.exe'**
 4. For the Original File, locate Track 01 of the patched Wachenröder disc, aka: <kbd>Wachenroder-English-t147-Track1.bin</kbd>
-5. Locate the <kbd>Cyber_Doll_English_Translation_v1.0.xdelta</kbd> patch.
+5. Locate the <kbd>Wachenroder_Addendum_v1.0.xdelta</kbd> patch.
 6. Click **'Apply Patch'**
 7. If successful, Track 01 will be replaced with the addendum's patched track.
 
