@@ -22,6 +22,7 @@ With these changes, the game should feel as if Sega themselves localized it.
 - Item and part descriptions use a new small font with proper descenders
 - Proportional font applied to: status screen/HUD/battle menu/battle banter scenes
 - Centering and alignment fixes throughout
+- Minor script polish throughout, like smoother phrasing and fewer repeated words. Example: "I want power...power to escape..." -> "I need power...power to escape...", "A bird takes wing, spreading its dark wings..." -> A bird takes flight, spreading its dark wings..."
 
 **Graphics**
 - Clean plated and removed JP from chapter title and location cards, leaving only background and German text
@@ -40,7 +41,7 @@ With these changes, the game should feel as if Sega themselves localized it.
 <img width="800" alt="04_turn_info" src="https://github.com/user-attachments/assets/8ca00b30-e01f-4154-a37b-65f3b65d638d" />
 <img width="800" alt="05_system_menu" src="https://github.com/user-attachments/assets/12ede981-f56d-428f-bac0-976944c4687d" />
 <img width="800" alt="03_battle_card" src="https://github.com/user-attachments/assets/c2920ce0-4e82-438e-ac7a-e3461881bb41" />
-<img width="800" alt="06_vogel" src="https://github.com/user-attachments/assets/fb56bacf-3ea8-4920-b514-531f7cee1668" />
+<img width="800" alt="06_vogel" src="https://github.com/user-attachments/assets/47d0f97e-cfca-48d6-abaf-ecef19d616f6" />
 <img width="800" alt="07_chapter_remembrance" src="https://github.com/user-attachments/assets/c9fc542a-593d-4893-a91b-784252303afd" />
 <img width="800" alt="09_credits_cast" src="https://github.com/user-attachments/assets/56e695df-2b08-45db-89bf-d45eed934d91" />
 <img width="800" alt="08_credits_staff" src="https://github.com/user-attachments/assets/078ef1b2-3227-4a42-b67a-eadbeb6333ad" />
