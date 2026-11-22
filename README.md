@@ -9,14 +9,13 @@ Wachenröder Addendum is an additive patch for the recent Wachenroder translatio
 With these changes, the game should feel as if Sega themselves localized it:
 
 ## Table of Contents
-1. [Overview](#Overview)
+1. [Features](#Features)
 1. [Screenshots](#Screenshots)
-1. [About the Game](#About-the-Game)
 1. [Patching Instructions](#Patching-Instructions)
-1. [Helpful Game Tips](#Helpful-Game-Tips)
-1. [Credits & Special Thanks](#Credits)
 1. [Reporting Issues](#Reporting-Issues)
 1. [Release Changelog](#Release-Changelog)
+
+## Features
 
 **Fonts**
 - Redraw of primary font at 8 x 12 using a Georgia base, and dialogue re-wrapped to fit. New font also applies to: narration scenes, extras galleries, save/load screens, and more
@@ -35,6 +34,7 @@ With these changes, the game should feel as if Sega themselves localized it:
 **Enhancements**
 - Extra galleries (Movie/Art/Voice) are unlocked from the start, no need to beat the game (just don't spoil yourself)
 
+## Screenshots 
 <img width="800" alt="02_dialogue" src="https://github.com/user-attachments/assets/aca36c3d-a2ab-4089-8c9f-1b23402539c4" />
 <img width="800" alt="01_location_card" src="https://github.com/user-attachments/assets/5daf98a9-df5e-4aac-98b9-4c3e5fa93c7f" />
 <img width="800" alt="04_turn_info" src="https://github.com/user-attachments/assets/8ca00b30-e01f-4154-a37b-65f3b65d638d" />
