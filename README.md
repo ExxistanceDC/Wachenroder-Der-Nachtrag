@@ -21,7 +21,7 @@ The following changes have been made:
 - Fixed original game bug on the save/load screen where months 10–12 would show as "0:", "0; or "0<"
 
 **Enhancements**
-- Extra galleries (Movie/Art) are unlocked from the start (just don't spoil yourself)
+- Extra galleries (Movie/Art/Voice) are unlocked from the start, no need to beat the game (just don't spoil yourself)
 
 
 <img width="640" height="448" alt="WACHENRODER  GS-9183 -20261120T230616 005" src="https://github.com/user-attachments/assets/71a987c7-cdbc-46b8-b989-7f6c523b1204" />
