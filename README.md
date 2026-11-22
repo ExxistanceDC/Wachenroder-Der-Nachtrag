@@ -4,7 +4,7 @@
 
 Not gonna write a huge fancy ReadMe for this one, but I'll at least tee up the patch:
 
-Wachenröder Addendum is an additive patch for the recent Wachenroder translation that fixes a bunch of issues. I don't have time to find and work with a translator to deliver an revision of the text, but I can at least bring my graphic design skills to improving some things with the current translation patch. 
+Wachenröder Addendum is an additive patch for the recent Wachenroder translation that fixes a bunch of issues. I don't have time to find and work with a translator to deliver a revision of the text, but I can at least bring my graphic design skills to improving some things with the current translation patch. 
 
 With these changes, the game should feel as if Sega themselves localized it:
 
