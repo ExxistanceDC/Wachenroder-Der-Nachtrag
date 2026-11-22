@@ -1,4 +1,5 @@
 
+
 # Wachenröder Addendum
 
 Not gonna write a huge fancy ReadMe for this one, but I'll at least tee up the patch:
@@ -24,9 +25,11 @@ With these changes, the game should feel as if Sega themselves localized it:
 **Enhancements**
 - Extra galleries (Movie/Art/Voice) are unlocked from the start, no need to beat the game (just don't spoil yourself)
 
-<img width="640" height="448" alt="WACHENRODER  GS-9183 -20261121T230253 688" src="https://github.com/user-attachments/assets/e417723e-e0d0-431c-a029-4b86de9a7cee" />
-<img width="640" height="448" alt="WACHENRODER  GS-9183 -20261121T093130 937" src="https://github.com/user-attachments/assets/a0561cc5-8483-418e-a4de-2ced1ac790b8" />
-<img width="640" height="448" alt="WACHENRODER  GS-9183 -20261120T230616 005" src="https://github.com/user-attachments/assets/71a987c7-cdbc-46b8-b989-7f6c523b1204" />
-<img width="640" height="448" alt="WACHENRODER  GS-9183 -20261121T200437 525" src="https://github.com/user-attachments/assets/a5cb36fb-cb54-4569-b1b1-c41d8719113b" />
+<img width="500" src="https://github.com/user-attachments/assets/e417723e-e0d0-431c-a029-4b86de9a7cee" />
+<img width="500"  src="https://github.com/user-attachments/assets/a0561cc5-8483-418e-a4de-2ced1ac790b8" />
+<img width="500" src="https://github.com/user-attachments/assets/71a987c7-cdbc-46b8-b989-7f6c523b1204" />
+<img width="500" src="https://github.com/user-attachments/assets/a5cb36fb-cb54-4569-b1b1-c41d8719113b" />
+<img width="500" src="https://github.com/user-attachments/assets/b36ec6c2-33f8-4c99-8a28-77fc475963d4" />
+<img width="500" src="https://github.com/user-attachments/assets/65e74b4a-8844-4e99-8946-e14c07fc23fd" />
+<img width="500"  src="https://github.com/user-attachments/assets/88959ab5-43c3-4cf4-9a0e-a5e5054b6847" />
 
-<img width="640" height="448" alt="WACHENRODER  GS-9183 -20261120T230749 695" src="https://github.com/user-attachments/assets/65e74b4a-8844-4e99-8946-e14c07fc23fd" />
