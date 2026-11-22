@@ -25,11 +25,18 @@ With these changes, the game should feel as if Sega themselves localized it:
 **Enhancements**
 - Extra galleries (Movie/Art/Voice) are unlocked from the start, no need to beat the game (just don't spoil yourself)
 
-<img width="500" src="https://github.com/user-attachments/assets/e417723e-e0d0-431c-a029-4b86de9a7cee" />
-<img width="500"  src="https://github.com/user-attachments/assets/a0561cc5-8483-418e-a4de-2ced1ac790b8" />
-<img width="500" src="https://github.com/user-attachments/assets/71a987c7-cdbc-46b8-b989-7f6c523b1204" />
-<img width="500" src="https://github.com/user-attachments/assets/a5cb36fb-cb54-4569-b1b1-c41d8719113b" />
-<img width="500" src="https://github.com/user-attachments/assets/b36ec6c2-33f8-4c99-8a28-77fc475963d4" />
-<img width="500" src="https://github.com/user-attachments/assets/65e74b4a-8844-4e99-8946-e14c07fc23fd" />
-<img width="500"  src="https://github.com/user-attachments/assets/88959ab5-43c3-4cf4-9a0e-a5e5054b6847" />
+<img width="800" alt="02_dialogue" src="https://github.com/user-attachments/assets/aca36c3d-a2ab-4089-8c9f-1b23402539c4" />
+<img width="800" alt="01_location_card" src="https://github.com/user-attachments/assets/5daf98a9-df5e-4aac-98b9-4c3e5fa93c7f" />
+<img width="800" alt="04_turn_info" src="https://github.com/user-attachments/assets/8ca00b30-e01f-4154-a37b-65f3b65d638d" />
+<img width="800" alt="05_system_menu" src="https://github.com/user-attachments/assets/12ede981-f56d-428f-bac0-976944c4687d" />
+<img width="800" alt="03_battle_card" src="https://github.com/user-attachments/assets/c2920ce0-4e82-438e-ac7a-e3461881bb41" />
+<img width="1288" height="496" alt="09_credits_cast" src="https://github.com/user-attachments/assets/56e695df-2b08-45db-89bf-d45eed934d91" />
+<img width="1288" height="496" alt="08_credits_staff" src="https://github.com/user-attachments/assets/078ef1b2-3227-4a42-b67a-eadbeb6333ad" />
+<img width="1288" height="496" alt="07_chapter_remembrance" src="https://github.com/user-attachments/assets/c9fc542a-593d-4893-a91b-784252303afd" />
+<img width="1288" height="496" alt="06_vogel" src="https://github.com/user-attachments/assets/fb56bacf-3ea8-4920-b514-531f7cee1668" />
+
+
+
+
+
 
