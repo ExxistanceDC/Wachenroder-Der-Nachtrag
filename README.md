@@ -65,15 +65,9 @@ The patch is shipped as an XDelta patch.
 
 ## Reporting Issues
 
-If you find an issue,please [submit a new issue here](https://github.com/ExxistanceDC/Wachenroder-Addendum/issues/new).
+If you find an issue, please [submit a new issue here](https://github.com/ExxistanceDC/Wachenroder-Addendum/issues/new).
 
 ## Release Changelog
 
 - **Version 1.0 (11/22/2026)**
   - Initial release
-
-
-
-
-
-
