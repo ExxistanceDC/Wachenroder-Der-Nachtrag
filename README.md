@@ -4,9 +4,19 @@
 
 Not gonna write a huge fancy ReadMe for this one, but I'll at least tee up the patch:
 
-Wachenröder Addendum is am additive patch for the recent Wachenroder translation that fixes a bunch of issues. I don't have time to find and work with a translator to deliver an revision of the text, but I can at least bring my graphic design skills to improving some things with the current translation patch. 
+Wachenröder Addendum is an additive patch for the recent Wachenroder translation that fixes a bunch of issues. I don't have time to find and work with a translator to deliver an revision of the text, but I can at least bring my graphic design skills to improving some things with the current translation patch. 
 
 With these changes, the game should feel as if Sega themselves localized it:
+
+## Table of Contents
+1. [Overview](#Overview)
+1. [Screenshots](#Screenshots)
+1. [About the Game](#About-the-Game)
+1. [Patching Instructions](#Patching-Instructions)
+1. [Helpful Game Tips](#Helpful-Game-Tips)
+1. [Credits & Special Thanks](#Credits)
+1. [Reporting Issues](#Reporting-Issues)
+1. [Release Changelog](#Release-Changelog)
 
 **Fonts**
 - Redraw of primary font at 8 x 12 using a Georgia base, and dialogue re-wrapped to fit. New font also applies to: narration scenes, extras galleries, save/load screens, and more
@@ -35,7 +45,23 @@ With these changes, the game should feel as if Sega themselves localized it:
 <img width="800" alt="09_credits_cast" src="https://github.com/user-attachments/assets/56e695df-2b08-45db-89bf-d45eed934d91" />
 <img width="800" alt="08_credits_staff" src="https://github.com/user-attachments/assets/078ef1b2-3227-4a42-b67a-eadbeb6333ad" />
 
+## **Patching Instructions**
 
+The patch is shipped as an XDelta patch. 
+
+### XDelta Instructions ###
+
+1. Grab an XDelta patching utility like <a href='https://www.romhacking.net/utilities/704/'>Delta Patcher</a>
+2. Unzip patch bundle
+3. Open **'DeltaPatcher.exe'**
+4. For the Original File, locate Track 01 of the original Cyber Doll disc (for example: <kbd>Cyber Doll (Japan) (Track 01).bin</kbd> )
+5. Locate the <kbd>Cyber_Doll_English_Translation_v1.0.xdelta</kbd> patch.
+6. Click **'Apply Patch'**
+7. If successful, Track 01 will be replaced with the patched track.
+
+**--> Important! <--**
+- Tested with release <kbd>Cyber Doll (Japan)</kbd>
+- Tested in Ymir, Kronos, and Mednafen emulators, and on real hardware with Satiator.
 
 
 
