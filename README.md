@@ -54,14 +54,14 @@ The patch is shipped as an XDelta patch.
 1. Grab an XDelta patching utility like <a href='https://www.romhacking.net/utilities/704/'>Delta Patcher</a>
 2. Unzip patch bundle
 3. Open **'DeltaPatcher.exe'**
-4. For the Original File, locate Track 01 of the original Cyber Doll disc (for example: <kbd>Cyber Doll (Japan) (Track 01).bin</kbd> )
+4. For the Original File, locate Track 01 of the patched Wachenröder disc, aka: <kbd>Wachenroder-English-t147-Track1.bin</kbd> )
 5. Locate the <kbd>Cyber_Doll_English_Translation_v1.0.xdelta</kbd> patch.
 6. Click **'Apply Patch'**
-7. If successful, Track 01 will be replaced with the patched track.
+7. If successful, Track 01 will be replaced with the addendum patched track.
 
 **--> Important! <--**
-- Tested with release <kbd>Cyber Doll (Japan)</kbd>
-- Tested in Ymir, Kronos, and Mednafen emulators, and on real hardware with Satiator.
+- Tested with release <kbd>Wachenroder-English-t147</kbd>
+- Tested in Ymir and on real hardware with Satiator.
 
 
 
