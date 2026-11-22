@@ -4,7 +4,7 @@ Not gonna write a huge fancy ReadMe for this one, but I'll at least tee up the p
 
 Wachenröder Addendum is a patch for the recent Wachenroder translation that fixes a bunch of issues. I don't have time to find and work with a translator to deliver an revision of the text, but I can at least bring my graphic design skills to improving some things with the current translation patch. 
 
-The following changes have been made:
+With these changes, the game should feel as if Sega themselves localized it:
 
 **Fonts**
 - Redraw of primary font at 8 x 12 using a Georgia base, and dialogue re-wrapped to fit. New font also applies to: narration scenes, extras galleries, save/load screens, and more
