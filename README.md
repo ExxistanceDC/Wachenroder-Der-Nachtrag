@@ -24,3 +24,7 @@ The following changes have been made:
 - Extra galleries (Movie/Art) are unlocked from the start (just don't spoil yourself)
 
 
+<img width="640" height="448" alt="WACHENRODER  GS-9183 -20261120T230616 005" src="https://github.com/user-attachments/assets/71a987c7-cdbc-46b8-b989-7f6c523b1204" />
+<img width="640" height="448" alt="WACHENRODER  GS-9183 -20261121T200437 525" src="https://github.com/user-attachments/assets/a5cb36fb-cb54-4569-b1b1-c41d8719113b" />
+<img width="640" height="448" alt="WACHENRODER  GS-9183 -20261121T093130 937" src="https://github.com/user-attachments/assets/a0561cc5-8483-418e-a4de-2ced1ac790b8" />
+<img width="640" height="448" alt="WACHENRODER  GS-9183 -20261120T230749 695" src="https://github.com/user-attachments/assets/65e74b4a-8844-4e99-8946-e14c07fc23fd" />
