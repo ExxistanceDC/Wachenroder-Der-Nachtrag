@@ -33,7 +33,7 @@ With these changes, the game should feel as if Sega themselves localized it.
 - Fixed original game bug on the save/load screen where months 10–12 would show as "0:", "0; or "0<"
 
 **Enhancements**
-- Extra galleries (Movie/Art/Voice) are unlocked from the start, no need to beat the game (just don't spoil yourself)
+- Extra galleries (Movie/Art/Voice) are now unlocked from the start, no need to beat the game (just don't spoil yourself)
 
 ## Screenshots 
 <img width="800" alt="02_dialogue" src="https://github.com/user-attachments/assets/aca36c3d-a2ab-4089-8c9f-1b23402539c4" />
@@ -70,5 +70,5 @@ If you find an issue, please [submit a new issue here](https://github.com/Exxist
 
 ## Release Changelog
 
-- **Version 1.0 (11/22/2026)**
+- **Version 1.0 (11/23/2026)**
   - Initial release
